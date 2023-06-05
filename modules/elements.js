@@ -1,9 +1,9 @@
-import BookList from './books.js';
+import Books from './books.js';
 
 export const newBook = () => {
   const title = document.querySelector('#title');
   const author = document.querySelector('#author');
-  const books = new BookList(title.value, author.value);
+  const books = new Books(title.value, author.value);
   books.add();
   title.value = '';
   author.value = '';

@@ -7,7 +7,8 @@ import {
   showhide,
 } from './modules/elements.js';
 
-BookList.render();
+BookList.displayall();
+
 document.querySelector('.add').addEventListener('click', newBook);
 
 const timeDate = document.querySelector('.date');

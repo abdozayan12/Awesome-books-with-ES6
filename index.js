@@ -1,6 +1,6 @@
 import BookList from './modules/books.js';
 
-import DateTime from './modules/date.js';
+import {DateTime} from './modules/date.js';
 
 import {
   newBook,

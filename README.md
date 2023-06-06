@@ -47,7 +47,7 @@ Awesome books
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://abdozayan12.github.io/Awsoom-books/)
+- [Live Demo Link](https://abdozayan12.github.io/Awesome-books-with-ES6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
